@@ -36,7 +36,7 @@ printf "          \e[1;92m[\e[0m\e[1;77m41\e[0m\e[1;92m]\e[0m\e[1;91m Binance Em
 
 
 read -p $'\n\e[1;92m\e[0m\e[1;77m\e[0m\e[1;92m ┌─[ Choose an option:]─[~]
- └──╼ ~ ' option
+ └──╼ ~ ' option 1
 
 
 
